@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 May 2023 19:47:11 at https://themeforest.net/item/simone-personal-portfolio-react-template/42757507 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themeforest.net/item/simone-personal-portfolio-react-template/42757507 -O1 "C:\My Web Sites\aaa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:30	Warning: 	Link https://themeforest.net/item/simone-personal-portfolio-react-template/reviews/42757507 not scanned (follow robots meta tag)
+19:47:30	Warning: 	Link https://themeforest.net/item/simone-personal-portfolio-react-template/42757507/comments not scanned (follow robots meta tag)
+19:47:30	Warning: 	Link https://themeforest.net/item/simone-personal-portfolio-react-template/42757507/support not scanned (follow robots meta tag)
+19:47:30	Error: 	"Not Found" (404) at link https://themeforest.net/item/simone-personal-portfolio-react-template/linkid.js (from https://themeforest.net/item/simone-personal-portfolio-react-template/42757507)
+19:47:30	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://themeforest.net/item/simone-personal-portfolio-react-template/42757507)
+19:47:30	Error: 	"Forbidden" (403) at link https://public-assets.envato-static.com/images/down.png (from https://public-assets.envato-static.com/assets/market/pages/default/index-967e2f3a9895844cc6cf140d97f02e36ce0082588b4841d9a4bb0e2a930b33bf.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 52 links scanned, 48 files written (3322545 bytes overall) [1766979 bytes received at 92998 bytes/sec], 2122398 bytes transferred using HTTP compression in 15 files, ratio 24%, 4.9 requests per connection
+(3 errors, 3 warnings, 0 messages)
